@@ -1,0 +1,11 @@
+.signup-background {
+    background-image: url('11.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.form-box button{
+    margin-top: 30px;
+}
